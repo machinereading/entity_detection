@@ -1,0 +1,2 @@
+model_checkpoint_path: "word_cnn_lstm_crf.ckpt"
+all_model_checkpoint_paths: "word_cnn_lstm_crf.ckpt"

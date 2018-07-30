@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+corpus/
+dump/
+experiment_results/
+etri_corpus/
+saves/
+temp*.py
+*.bat
+vector/ko.bin
+vector/wiki.ko.vec
